@@ -1,12 +1,10 @@
 # Pracownia Programowania
 
 
-## Homework
-
 <details> 
-  <summary> 02 </summary>
+  <summary> After Class </summary>
    
-  * [18](https://github.com/jakub20kurdziel/pracownia-programowania/blob/master/02/main.py)    
+  * [02](https://github.com/jakub20kurdziel/pracownia-programowania/blob/master/02)    
 </details>
 
 
